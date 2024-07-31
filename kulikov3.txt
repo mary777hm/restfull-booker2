@@ -1,0 +1,195 @@
+01-05
+Question 1
+In waterfall model…
+- Each phase must be completed fully before the next phase can begin. +++
+- There is a fixed set of iterations repeating each phase of the entire model.
+- Each separate phase repeats multiple times.
+- There is some product increment at the end of each iteration.
+Вопрос 1
+В модели водопада…
+- Каждый этап должен быть завершен полностью, прежде чем можно будет начать следующий этап. +++
+- Существует фиксированный набор итераций, повторяющих каждую фазу всей модели.
+- Каждая отдельная фаза повторяется несколько раз.
+- В конце каждой итерации происходит некоторый прирост продукта.
+Question 2
+The V-model…
+- Requires that there is no product increment at the end of each iteration.
+- Is a framework to describe the software development lifecycle activities from requirements specification to maintenance.+++
+- Requires restart the project from the beginning if quality check fails at any stage.
+- Provides variety of tools to integrate unit-testing to each activity.
+вопрос 2
+V-модель…
+- Требуется, чтобы в конце каждой итерации не было приращения продукта.
+- Является основой для описания действий жизненного цикла разработки программного обеспечения от спецификации требований до обслуживания.+++
+- Требует перезапуска проекта с самого начала, если проверка качества не удалась на каком-либо этапе.
+- Предоставляет разнообразные инструменты для интеграции модульного тестирования в каждое действие.
+Question 3
+In iterative / incremental model…
+- For each testing attempt a complete system is compiled and linked, so that a consistent system is available including all latest changes.
+- A project is broken into a usually large number of iterations. +++
+- There is a fixed set of iterations repeating each phase of the entire model.
+- Any stage may be omitted without any affect on the final product quality.
+Вопрос 3
+В итеративной/инкрементной модели…
+- Для каждой попытки тестирования полная система компилируется и связывается, так что доступна согласованная система, включающая все последние изменения.
+- Проект обычно разбивается на большое количество итераций. +++
+- Существует фиксированный набор итераций, повторяющих каждую фазу всей модели.
+- Любой этап может быть пропущен без какого-либо влияния на качество конечного продукта.
+Question 4
+Agile model…
+- Provides variety of tools to integrate unit-testing to each activity.
+- Requires restart the project from the beginning if quality check fails at any stage.
+- Is a synonym to the spiral model.
+- Is a group of software development methodologies based on iterative incremental development. +++
+Вопрос 4
+Гибкая модель…
+- Предоставляет разнообразные инструменты для интеграции модульного тестирования в каждое действие.
+- Требует перезапуска проекта с самого начала, если проверка качества не удалась на каком-либо этапе.
+- Является синонимом спиральной модели.
+- представляет собой группу методологий разработки программного обеспечения, основанных на итеративной поэтапной разработке. +++
+Question 5 - multi
+The advantages of waterfall model are…
+- This model avoids the downward flow of the defects.
+- This model is very rigid and inflexible.
+- This model is simple and easy to understand and use. +++
+- In this model phases are processed and completed one at a time. Phases do not overlap. +++
+Вопрос 5 – мульти
+Преимущества водопадной модели:
+- Эта модель позволяет избежать нисходящего потока дефектов.
+- Эта модель очень жесткая и негибкая.
+- Эта модель проста и удобна для понимания и использования. +++
+- В этой модели фазы обрабатываются и завершаются по одной. Фазы не пересекаются. +++
+Question 6 - multi
+The advantages of V-model are…
+- High amounts of risk and uncertainty.
+- Proactive defect tracking – that is defects are found at early stage. +++
+- If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+- Testing activities like planning, test designing happens well before coding. +++
+Вопрос 6 – мульти
+Преимущества V-модели…
+- Высокая степень риска и неопределенности.
+- Проактивное отслеживание дефектов – то есть дефекты обнаруживаются на ранней стадии. +++
+- Если какие-либо изменения происходят в середине проекта, то тестовые документы вместе с документами с требованиями должны быть обновлены.
+- Действия по тестированию, такие как планирование и разработка тестов, происходят задолго до написания кода. +++
+Question 7 - multi
+Advantages of Agile model are…
+-High amounts of risk and uncertainty.
+-Customer satisfaction by rapid, continuous delivery of useful software. +++
+-Close, daily cooperation between business people and developers. +++
+-There is lack of emphasis on necessary designing and documentation.
+Вопрос 7 – мульти
+Преимущества Agile-модели:…
+-Высокая степень риска и неопределенности.
+-Удовлетворенность клиентов за счет быстрой и непрерывной поставки полезного программного обеспечения. +++
+-Тесное, ежедневное сотрудничество между бизнесменами и разработчиками. +++
+- Недостаточно внимания необходимому проектированию и документации.
+Question 8- multi
+The disadvantages of waterfall model are…
+- This model is simple and easy to understand and use.
+- No working software is produced until late during the life cycle. +++
+- This is a poor model for long and ongoing projects. +++
+- This model works well for smaller projects where requirements are clearly defined and very well understood.
+Вопрос 8- мульти
+Недостатками водопадной модели являются…
+- Эта модель проста и удобна для понимания и использования.
+- Ни одно работающее программное обеспечение не создается до поздней стадии жизненного цикла. +++
+- Это плохая модель для длительных и текущих проектов. +++
+- Эта модель хорошо работает для небольших проектов, где требования четко определены и очень хорошо понятны.
+Question 9 - multi
+The disadvantages of V-model are…
+- If any changes happen in midway, then the test documents along with requirement documents has to be updated. +++
+- This model is too simple and easy to understand and use.
+- This model works well for small projects where requirements are easily understood.
+- Software is developed during the implementation phase, so no early prototypes of the software are produced. +++
+Вопрос 9 – мульти
+Недостатками V-модели являются…
+- Если какие-либо изменения произойдут в середине проекта, то тестовые документы вместе с документами с требованиями должны быть обновлены. +++
+- Эта модель слишком проста и удобна для понимания и использования.
+- Эта модель хорошо работает для небольших проектов, требования которых легко понять.
+- Программное обеспечение разрабатывается на этапе внедрения, поэтому ранние прототипы программного обеспечения не создаются. +++
+Question 10- multi
+The disadvantages of Agile model are…
+- There is a fixed set of iterations repeating each phase of the entire model.
+- This model is very rigid and inflexible.
+- The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+- There is lack of emphasis on necessary designing and documentation.
+Вопрос 10- мульти
+Недостатками Agile-модели являются…
+- Существует фиксированный набор итераций, повторяющих каждую фазу всей модели.
+- Эта модель очень жесткая и негибкая.
+- Проект может легко сойти с намеченного пути, если представителю заказчика неясно, какого конечного результата он хочет. +++
+- Недостаточно внимания необходимому проектированию и документации. +++
+###########################################################################
+01-06
+Question 1
+The software testing lifecycle begins with…
+- Test strategy establishment.
+- General planning and requirements analysis. +++
+- Test cases creation.
+- Defect reporting.
+Вопрос 1
+Жизненный цикл тестирования программного обеспечения начинается с…
+- Разработка стратегии тестирования.
+- Общее планирование и анализ потребностей. +++
+- Создание тест-кейсов.
+- Отчет о дефектах.
+Question 2
+At acceptance criteria establishment stage we…
+- Return to planning to find out how shall we achieve all those goals and criteria from the previous step.
+- Analyze if we managed to achieve the goals set during the planning stage.
+- Analyze results and write reports.
+- Have to establish or adjust metrics and criteria for test process to start, pause, resume, complete or abort. +++
+вопрос 2
+На этапе определения критериев приемки мы…
+- Вернитесь к планированию, чтобы узнать, как нам достичь всех целей и критериев предыдущего шага.
+- Проанализировать, удалось ли нам достичь целей, поставленных на этапе планирования.
+- Анализировать результаты и писать отчеты.
+- Необходимо установить или настроить метрики и критерии для запуска, приостановки, возобновления, завершения или прекращения процесса тестирования. +++
+Question 3
+At test strategy establishment stage we…
+- Define approaches, tools, schedule, roles, responsibility and so on. +++
+- Analyze if we managed to achieve the goals set during the planning stage.
+- Create, review, adjust, rework (and so on) checklists.
+- Look for defects and write defect-reports.
+Вопрос 3
+На этапе разработки стратегии тестирования мы…
+- Определить подходы, инструменты, график, роли, ответственность и так далее. +++
+- Проанализировать, удалось ли нам достичь целей, поставленных на этапе планирования.
+- Создавать, просматривать, корректировать, перерабатывать (и так далее) чек-листы.
+- Ищите дефекты и пишите дефект-отчеты.
+Question 4
+At test cases creation phase we…
+- Define approaches, tools, schedule, roles, responsibility and so on.
+- Analyze if we managed to achieve the goals set during the planning stage.
+- Create, review, adjust, rework (and so on) checklists, test cases, test scenarios and other similar artifacts. +++
+- Look for defects and write defect-reports.
+Вопрос 4
+На этапе создания тест-кейсов мы…
+- Определите подходы, инструменты, график, роли, ответственность и так далее.
+- Проанализировать, удалось ли нам достичь целей, поставленных на этапе планирования.
+- Создавайте, просматривайте, корректируйте, перерабатывайте (и т. д.) контрольные списки, тестовые примеры, тестовые сценарии и другие подобные артефакты. +++
+- Ищите дефекты и пишите дефект-отчеты.
+Question 5
+During test cases execution and defect reporting stages we…
+- Have to find out what to test, how much work is ahead, what difficulties we may face.
+- Analyze if we managed to achieve the goals set during the planning stage.
+- Establish or adjust metrics and criteria for test process to start, pause, resume, complete or abort.
+- Report defects during test cases execution and defects detection. +++
+Вопрос 5
+На этапах выполнения тест-кейсов и отчетов о дефектах мы…
+— Осталось выяснить, что тестировать, сколько работы предстоит, с какими трудностями мы можем столкнуться.
+- Проанализировать, удалось ли нам достичь целей, поставленных на этапе планирования.
+- Установите или настройте метрики и критерии для запуска, приостановки, возобновления, завершения или прекращения процесса тестирования.
+- Сообщать о дефектах во время выполнения тестовых случаев и обнаружения дефектов. +++
+Question 6
+During test results analysis and test results reporting stages we…
+- Analyze if we managed to achieve the goals set during the planning stage. +++
+- Create, review, adjust, rework (and so on) checklists, test cases, test scenarios and other similar artifacts.
+- Look for defects and write defect-reports.
+- Return to planning to find out how shall we achieve all those goals and criteria from the previous step.
+Вопрос 6
+На этапах анализа результатов испытаний и отчетности о результатах испытаний мы…
+- Проанализировать, удалось ли нам достичь целей, поставленных на этапе планирования. +++
+- Создавайте, просматривайте, корректируйте, перерабатывайте (и т. д.) контрольные списки, тестовые примеры, тестовые сценарии и другие подобные артефакты.
+- Ищите дефекты и пишите дефект-отчеты.
+- Вернитесь к планированию, чтобы узнать, как нам достичь всех целей и критериев предыдущего шага.

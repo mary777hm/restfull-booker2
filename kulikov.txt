@@ -1,0 +1,56 @@
+Question 1
+The "exhaustive testing" is a...
+- Testing type.
+- Testing level consisting of full requirements analysis and some check lists creation.
+- Test approach in which the test suite comprises all combinations of input values and preconditions. +++++
+- Test approach in which the application is tested in all supported environments.
+Question 2
+Which concept in software testing was the earliest one?
+- Agile testing.
+- Positive and negative testing. +++
+- Test automation.
+- DevTestOps.
+Question 3
+Was software testing closely integrated with software development from the very beginning?
+- Yes, it was a natural state of things.
+- No, there is no way to integrate these activities.
+- No, because the software testing and the software development are rarely performed at the same time.
+- No, the integration become visible with Agile approach only. +++
+01-02
+Question 1
+How can software testing make a software product more attractive to end users?
+- It improves usability and user experience. ++++
+- It provides more alternatives (competitive products).
+- It forces a user to make more effort to learn the product.
+- It helps to provide users with the results they want with the product. +++
+Question 2
+Why is the quality important for enterprise users?
+- It calms.
+- It decreases risks. +++
+- It helps to make business. +++
+- It is a form of charity (helps with taxes decrease).
+Question 3
+Are there some life-critical areas where software testing may help to avoid a disaster?
+- No, any life-critical area of human activities works without software.
+- Yes, there are lot (like planes, trains, power plants, etc). +++
+- It’s hard to find out.
+- There were a lot in the past, but there is none now.
+01-03
+Question 1
+What soft skills are most needed for a tester?
+- Good sense of humor, positive thinking.
+- Responsibility, communication skills. +++
+- Observation and attentiveness to details. +++
+- Aggression, tendency to violent behavior.
+Question 2
+Are presentation skills important for a tester?
+- No.
+- Yes, these skills help with a lot of everyday activities. +++
+- Yes, these skills help to “be invisible” (to work without interference).
+- No, because no tester has such a skill.
+Question 3
+What skills are absolutely required to start a testers career?
+- Good English, general IT knowledge. +++
+- Programming (including web and mobile development) basics, OS administration basics.
+- Good abstract and analytical thinking.
+- Virtualization and cloud computing basics.

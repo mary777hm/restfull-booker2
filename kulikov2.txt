@@ -1,0 +1,135 @@
+Question 1
+Quality management is…
+-Coordinated activities to direct and control an organization with regard to quality.+++
+-Set of actions to verify the product against the requirements.
+-The operational techniques and activities that are focused on fulfilling quality requirements.
+-The process concerned with planning, preparation and evaluation of software products.
+Вопрос 1
+Управление качеством – это…
+-Скоординированная деятельность по руководству и контролю организации в отношении качества. +++
+-Комплекс действий по проверке продукта на соответствие требованиям.
+-Операционные методы и действия, направленные на выполнение требований к качеству.
+-Процесс, связанный с планированием, подготовкой и оценкой программных продуктов.
+Question 2
+Testing is…
+- The degree to which a component, system or process meets specified requirements and/or user/customer needs and expectations.
+- The process concerned with planning, preparation and evaluation of software products and related work products to determine
+that they satisfy specified requirements. +++++++++++++++
+- Coordinated activities to direct and control an organization with regard to quality.
+- The behavior produced/observed when a component or system is tested.
+вопрос 2
+Тестирование – это…
+- Степень, в которой компонент, система или процесс соответствует заданным требованиям и/или потребностям
+и ожиданиям пользователя/заказчика.
+- Процесс, связанный с планированием, подготовкой и оценкой программных продуктов и связанных с ними рабочих
+продуктов с целью определения их соответствия установленным требованиям. +++++++++++++++++++
+- Скоординированная деятельность по руководству и контролю организации в отношении качества.
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+Question 3
+Quality is…
+- The degree to which a component, system or process meets specified requirements and/or user/customer needs and expectations. +++
+- Coordinated activities to direct and control an organization with regard to quality.
+- The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements.
+- The predicted observable behavior of a component or system executing under specified conditions, based on its specification or another s
+Вопрос 3
+Качество – это…
+- Степень, в которой компонент, система или процесс соответствует заданным требованиям и/или потребностям и ожиданиям пользователя/заказчика. +++
+- Скоординированная деятельность по руководству и контролю организации в отношении качества.
+- Операционные методы и действия, являющиеся частью менеджмента качества, направленные на выполнение требований к качеству.
+- Прогнозируемое наблюдаемое поведение компонента или системы, выполняющегося в заданных условиях, на основе его спецификации или других параметров.
+Question 4
+Quality assurance is…
+- The degree to which a component, system or process meets specified requirements and/or user/customer needs and expectations.
+- Coordinated activities to direct and control an organization with regard to quality.
+- Part of quality management focused on providing confidence that quality requirements will be fulfilled.
+- The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements.
+Вопрос 4
+Гарантия качества – это…
+- Степень, в которой компонент, система или процесс соответствует заданным требованиям и/или потребностям и ожиданиям пользователя/заказчика.
+- Скоординированная деятельность по руководству и контролю организации в отношении качества.
+- Часть управления качеством направлена на обеспечение уверенности в том, что требования к качеству будут выполнены. +++
+- Операционные методы и действия, являющиеся частью управления качеством, направленные на выполнение требований к качеству.
+Question 5
+Quality control is…
+- The degree to which a component, system or process meets specified requirements and/or user/customer needs and expectations.
+- Coordinated activities to direct and control an organization with regard to quality.
+- Part of quality management focused on providing confidence that quality requirements will be fulfilled.
+- The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements. +++
+Вопрос 5
+Контроль качества – это…
+- Степень, в которой компонент, система или процесс соответствует заданным требованиям и/или потребностям и ожиданиям пользователя/заказчика.
+- Скоординированная деятельность по руководству и контролю организации в отношении качества.
+- Часть управления качеством направлена на обеспечение уверенности в том, что требования к качеству будут выполнены.
+- Операционные методы и действия, являющиеся частью управления качеством, направленные на выполнение требований к качеству. +++
+Question 6
+Defect is…
+- An imperfection or deficiency in a work product where it does not meet its requirements or specifications. +++
+- Coordinated activities to direct and control an organization with regard to quality.
+- The behavior produced/observed when a component or system is tested.
+- The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements.
+Вопрос 6
+Дефект – это…
+- Несовершенство или недостаток рабочего продукта, если он не соответствует требованиям или спецификациям. +++
+- Скоординированная деятельность по руководству и контролю организации в отношении качества.
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+- Операционные методы и действия, являющиеся частью управления качеством, направленные на выполнение требований к качеству.
+Question 7
+Expected result is…
+- An imperfection or deficiency in a work product where it does not meet its requirements or specifications.
+- The predicted observable behavior of a component or system executing under specified conditions, based on its specification or another source.+++
+- The behavior produced/observed when a component or system is tested.
+- The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements.
+Вопрос 7
+Ожидаемый результат…
+- Несовершенство или недостаток рабочего продукта, если он не соответствует требованиям или спецификациям.
+- Прогнозируемое наблюдаемое поведение компонента или системы, выполняющегося в заданных условиях, на основе его спецификации или другого источника.+++
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+- Операционные методы и действия, являющиеся частью управления качеством, направленные на выполнение требований к качеству.
+Question 8
+Actual result is…
+- The behavior produced/observed when a component or system is tested. +++
+- The predicted observable behavior of a component or system executing under specified conditions, based on its specification or another source.
+- A set of ideas.
+- Part of quality management focused on providing confidence that quality requirements will be fulfilled.
+Вопрос 8
+Фактический результат…
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы. +++
+- Прогнозируемое наблюдаемое поведение компонента или системы, выполняющегося в заданных условиях, на основе его спецификации или другого источника.
+- Набор идей.
+- Часть управления качеством направлена на обеспечение уверенности в том, что требования к качеству будут выполнены.
+Question 9
+Checklist is…
+- A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions.
+- An imperfection or deficiency in a work product where it does not meet its requirements or specifications.
+- The behavior produced/observed when a component or system is tested.
+- A set of ideas. +++
+Вопрос 9
+Контрольный список – это…
+- Набор предварительных условий, входных данных, действий (где применимо), ожидаемых результатов и постусловий, разработанных на основе условий тестирования.
+- Несовершенство или недостаток рабочего продукта, если он не соответствует требованиям или спецификациям.
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+- Набор идей. +++
+Question 10
+Test case is…
+- A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions. +++
+- Part of quality management focused on providing confidence that quality requirements will be fulfilled.
+- The behavior produced/observed when a component or system is tested.
+- A set of ideas.
+Вопрос 10
+Тестовый пример – это…
+- Набор предварительных условий, входных данных, действий (где применимо), ожидаемых результатов и постусловий, разработанных на основе условий тестирования. +++
+- Часть управления качеством направлена на обеспечение уверенности в том, что требования к качеству будут выполнены.
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+- Набор идей.
+Question 11
+Test suite is…
+- A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions.
+- A set of test cases or test procedures to be executed in a specific test cycle. +++
+- The behavior produced/observed when a component or system is tested.
+- A set of ideas.
+Вопрос 11
+Тестовый набор — это…
+- Набор предварительных условий, входных данных, действий (где применимо), ожидаемых результатов и постусловий, разработанных на основе условий тестирования.
+- Набор тестовых примеров или тестовых процедур, которые должны быть выполнены в определенном цикле тестирования. +++
+- Поведение, наблюдаемое/производимое при тестировании компонента или системы.
+- Набор идей.
